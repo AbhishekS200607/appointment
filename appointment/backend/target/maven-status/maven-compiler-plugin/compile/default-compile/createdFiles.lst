@@ -1,0 +1,17 @@
+com\bookmyservice\service\UserService.class
+com\bookmyservice\config\SecurityConfig.class
+com\bookmyservice\controller\ServiceController.class
+com\bookmyservice\controller\AuthController.class
+com\bookmyservice\entity\User$Role.class
+com\bookmyservice\entity\Appointment$Status.class
+com\bookmyservice\entity\Appointment.class
+com\bookmyservice\entity\Appointment$PaymentStatus.class
+com\bookmyservice\entity\Service.class
+com\bookmyservice\entity\User.class
+com\bookmyservice\service\AppointmentService.class
+com\bookmyservice\repository\UserRepository.class
+com\bookmyservice\controller\AppointmentController.class
+com\bookmyservice\repository\AppointmentRepository.class
+com\bookmyservice\BookMyServiceApplication.class
+com\bookmyservice\service\ServiceService.class
+com\bookmyservice\repository\ServiceRepository.class
